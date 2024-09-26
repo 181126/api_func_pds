@@ -1,0 +1,64 @@
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\appsettings.json
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.exe
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.deps.json
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.runtimeconfig.json
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.dll
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.pdb
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.csproj.AssemblyReference.cache
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.AssemblyInfoInputs.cache
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.AssemblyInfo.cs
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets\msbuild.Api_Funcionario.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_Funcionario.props
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_Funcionario.props
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_Funcionario.props
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\scopedcss\bundle\Api_Funcionario.styles.css
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.csproj.CopyComplete
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.dll
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\refint\Api_Funcionario.dll
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.pdb
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.genruntimeconfig.cache
+C:\Users\claud\source\repos\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\ref\Api_Funcionario.dll
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.csproj.AssemblyReference.cache
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.AssemblyInfoInputs.cache
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.AssemblyInfo.cs
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.dll
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\refint\Api_Funcionario.dll
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.pdb
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\appsettings.json
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.exe
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.deps.json
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.runtimeconfig.json
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.dll
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Api_Funcionario.pdb
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets\msbuild.Api_Funcionario.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_Funcionario.props
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_Funcionario.props
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_Funcionario.props
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\scopedcss\bundle\Api_Funcionario.styles.css
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.csproj.CopyComplete
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\Api_Funcionario.genruntimeconfig.cache
+C:\Users\leide\OneDrive\Documentos\códigos\3 ano\PDS\2 Bimestre\Api_Funcionario\Api_Funcionario\Api_Funcionario\obj\Debug\net6.0\ref\Api_Funcionario.dll
